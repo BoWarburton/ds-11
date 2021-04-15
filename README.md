@@ -1,2 +1,2 @@
 # ds-11
-Data science bootcamp data wrangling and storytelling - forked from @LambdaSchool
+Data wrangling and storytelling from data science bootcamp. Forked from @LambdaSchool
